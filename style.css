@@ -114,6 +114,7 @@ padding: 2%;
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
     text-align: center;
+    border: none;
     
 }
 .message-btn h3{
